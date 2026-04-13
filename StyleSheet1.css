@@ -4,6 +4,9 @@
 
 p.one {
     border-color:red
+
+    height:10px;
+    Width: auto
 }
 
 h1 {color: yellow}
