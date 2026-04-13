@@ -1,0 +1,10 @@
+﻿body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue
+}
+
+p.one {
+    border-color:red
+}
+
+h1 {color: yellow}
